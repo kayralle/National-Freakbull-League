@@ -26,7 +26,7 @@
     <h1>League Constitution</h1>
     <iframe
         class="docFrame"
-        src="https://docs.google.com/document/d/e/YOUR_PUBLISHED_ID/pub?embedded=true"
+        src="https://docs.google.com/document/d/1G3Q8WuPYR_5dcvH_XCUrVnErZ7pD001Jb2JDLVIMXFA/edit?usp=drivesdkembedded=true"
         title="League Constitution"
     ></iframe>
 </div>
