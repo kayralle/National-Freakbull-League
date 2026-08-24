@@ -64,8 +64,8 @@
 	}
 
 	h2 {
-		text-align: center;
-		font-size: 2em;
+		text-align: right;
+		font-size: 1em;
 	}
 
 	@media (max-width: 460px) {
@@ -77,7 +77,7 @@
 		}
 
 		h2 {
-			font-size: 2em;
+			font-size: 1em;
 		}
 	}
 
@@ -90,7 +90,7 @@
 		}
 
 		h2 {
-			font-size: 2em;
+			font-size: 1em;
 		}
 	}
 
