@@ -55,7 +55,7 @@
 
 	.banner-D-2 {
 		background-image: url("/division-2-banner.png");
-		background-position: right; 
+		background-position: left; 
 	}
 
 	.banner-D-3 {
@@ -65,7 +65,7 @@
 
 	h2 {
 		text-align: center;
-		font-size: 3em;
+		font-size: 2em;
 	}
 
 	@media (max-width: 460px) {
@@ -77,7 +77,7 @@
 		}
 
 		h2 {
-			font-size: 2.5em;
+			font-size: 2em;
 		}
 	}
 
