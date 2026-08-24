@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Ten teams. Two divisions. Three keepers, one of whom you get to name outright and two you have to win in a lottery. Full PPR, no kickers, no defense.</p>
-  <p>The rest is settled law: <a href="https://docs.google.com/document/d/1nODDNaxmRDjsQNKDrE45cCH6nKKFue38uFrHAjkvbKQ/edit?usp=drivesdk" target="_blank" rel="noopener noreferrer">the league rules</a>.</p>
+  <p>"Let's get freaky widdit"</p>
+  <p> A good kid with the crazy idea to make a fantasy football league with a bunch of bad guys. Let's just say we do things a little differently around here 😅😂 #Freakbull
 `;
 
 
