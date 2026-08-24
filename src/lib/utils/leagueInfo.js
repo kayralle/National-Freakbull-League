@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>"Let's get freaky widdit"</p>
-  <p> A good kid with the crazy idea to make a fantasy football league with a bunch of bad guys. Let's just say we do things a little differently around here 😅😂 #Freakbull
+  <p> Once upon a time, a good kid had the crazy idea to make a fantasy football league with a bunch of bad guys. Let's just say we do things a little differently around here 😅😂 #Freakbull
 `;
 
 
